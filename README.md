@@ -10,7 +10,7 @@ I am a passionate software developer with a strong background in Java, JavaScrip
 
 Here are some of the notable projects you'll find in my GitHub repositories:
 
-### Project 1
+### My Personal portfolio
 
 - **Description**: Briefly describe the project, its purpose, and its main features.
 - **Technologies**: List the technologies, programming languages, and frameworks used.
