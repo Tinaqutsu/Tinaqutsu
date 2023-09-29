@@ -12,8 +12,8 @@ Here are some of the notable projects you'll find in my GitHub repositories:
 
 ### My Personal portfolio
 
-- **Description**: Welcome to my portfolio! This collection of work represents a visual journey through my professional expertise and creative endeavors. Within these digital pages, you'll find a curated selection of projects that showcase my skills, experience, and passion.
-- **Technologies**:Used HTML, CSS and JavaScript
+**Description**: Welcome to my portfolio! This collection of work represents a visual journey through my professional expertise and creative endeavors. Within these digital pages, you'll find a curated selection of projects that showcase my skills, experience, and passion.
+ **Technologies**:Used HTML, CSS and JavaScript
   
 
 ### Gadget borrow
