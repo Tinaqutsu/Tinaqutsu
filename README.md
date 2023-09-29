@@ -20,7 +20,7 @@ Here are some of the notable projects you'll find in my GitHub repositories:
 
 - **Description**: This was a group project where we built a website renting out inveters.
 - **Technologies**: Used JavaScript,HTMLand CSS
-- **Link**: [Demo](https://creative-tutors-website.netlify.app).
+- **Link**:
 
 ### Creative Tutors
 
