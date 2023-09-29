@@ -26,7 +26,7 @@ Here are some of the notable projects you'll find in my GitHub repositories:
 
 - **Description**: This website serves as a platform to showcase our tutoring services and provide valuable resources for students. Whether you're looking for subject-specific help, study tips, or information about our tutors, you'll find it here.
 - **Technologies**: List the technologies, programming languages, and frameworks used.
-  ** Link**:[Demo](https://creative-tutors-website.netlify.app).
+-**Link**:[Demo](https://creative-tutors-website.netlify.app).
 
 Feel free to explore these projects and provide feedback or contribute if you're interested in collaborating.
 
