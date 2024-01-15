@@ -33,7 +33,7 @@ Feel free to explore these projects and provide feedback or contribute if you're
 
 ## Contact
 
-You can reach me via email at [thinaqutsu8@gmail.com](mailto:thinaqutsu8@gmail.com) or connect with me on LinkedIn at [your LinkedIn profile URL](https://www.linkedin.com/in/your-profile-url/). I'm always open to networking, discussing new ideas, and exploring potential collaborations.
+You can reach me via email at [thinaqutsu8@gmail.com](mailto:thinaqutsu8@gmail.com) or connect with me on LinkedIn at [your LinkedIn profile URL](https://www.linkedin.com/in/thina-qutsu-b27a40220/). I'm always open to networking, discussing new ideas, and exploring potential collaborations.
 
 
 ## Hire Me
